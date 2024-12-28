@@ -1,1 +1,1 @@
-# tu będzie appka we flasku
+print("Hello world")
