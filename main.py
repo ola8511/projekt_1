@@ -1,1 +1,1 @@
-print("Hello git!")
+# tu będzie appka we flasku
